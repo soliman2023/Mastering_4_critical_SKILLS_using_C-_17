@@ -1,10 +1,9 @@
-# Mastering_4_critical_SKILLS_using_C-_17
-This repository contains all the project and problems that are in "Mastering 4 critical SKILLS using C++ 17" by DR. Mostafa Saad.
 # Mastering 4 Critical Skills Using C# 17
+This repository contains all the project and problems that are in **"Mastering 4 critical SKILLS using C++ 17"** by DR. Mostafa Saad.
 
 ![C# 17 Logo](https://upload.wikimedia.org/wikipedia/commons/0/99/C_Sharp_logo.svg)
 
-Welcome to the **Mastering 4 Critical Skills Using C# 17** project! This repository is designed to help developers enhance their C# programming skills by focusing on four essential areas:
+This repository is designed to help developers enhance their C++ programming skills by focusing on four essential areas:
 
 - **Problem Solving**
 - **Algorithm Design**
