@@ -60,10 +60,14 @@ Contributing
 Contributions are welcome! If you’d like to contribute to this project, please follow these steps:
 
 Fork the repository.
+
 Create a new branch for your feature or fix.
+
 Make your changes and commit them with descriptive messages.
+
 Push your branch and submit a pull request.
-License
+
+<h3>License</h3>
 
 **📄 License Information:** This project is licensed under the MIT License. See the LICENSE file for more details.
 
@@ -72,6 +76,8 @@ Contact
 
 For questions or suggestions, feel free to reach out:
 
-**Author:** Mostafa Soliman
-**GitHub:** soliman2023
+**Author:** Mostafa Soliman.
+
+**GitHub:** soliman2023.
+
 **Happy coding!**
