@@ -1,10 +1,6 @@
 # Mastering 4 Critical Skills Using C++ 17
 This repository contains all the project and problems that are in **"Mastering 4 critical SKILLS using C++ 17"** by DR. Mostafa Saad.
 
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="Ubuntu" width="40" height="40"/>
-</a>
-
 This repository is designed to help developers enhance their C++ programming skills by focusing on four essential areas:
 
 - **Problem Solving**
